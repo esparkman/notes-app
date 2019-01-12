@@ -1,0 +1,12 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "description": "Note Taking App",
+  "author": "Evan Sparkman",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "yargs": "4.7.1"
+  }
+}
